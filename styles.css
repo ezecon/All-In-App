@@ -1,0 +1,41 @@
+body{
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+.background{
+    background-image: url(https://i.ytimg.com/vi/iq5ORFsDq5g/maxresdefault.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 8% 0;
+    text-align: center;
+}
+.background a{
+    
+    border: 2px solid white;
+    padding: 0 20px;
+    width: 500px;
+    font-size: 34px;
+    height: 100px;
+    color: white;
+    background-color: gray;
+}
+.background a:hover{
+    color: white;
+    background:none;
+
+}
+ .class1 h1
+ {
+     margin: 0 auto;
+     width: 500px;
+    border: 1px solid gray;
+    color: gray;
+    background-color: white;
+ }
